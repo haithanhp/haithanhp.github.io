@@ -7,7 +7,7 @@ years: [2020, 2019, 2014, 2013]
 nav: true
 ---
 
-The recent research is available on [Google Scholar](https://scholar.google.com/citations?user=YdEeFzMAAAAJ&hl=en)
+The recent updated list is available on <a target="_blank" href="https://scholar.google.com/citations?user=YdEeFzMAAAAJ&hl=en">Google Scholar</a>
 
 <div class="publications">
 
