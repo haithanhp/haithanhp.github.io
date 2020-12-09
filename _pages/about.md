@@ -23,7 +23,7 @@ I am a Ph.D. student at [CMU](https://www.cmu.edu/), Pittsburgh, PA.
 **Research Interests**\
 My research interests are Machine Learning and Deep Learning for Computer Vision. I am interested in desiging compact neural architectures using recent automated Machine Learning (auto ML) approaches: Evolutionary algorithm, Reinforcement Learning. 
 
-I obtained my master's degree from CMU, advised by Prof.[Marios Savvides](https://www.ece.cmu.edu/directory/bios/savvides-marios.html). Prior to that, I got my bachelor's degree in Computer Science at [University of Science, Ho Chi Minh City, Vietnam](https://en.hcmus.edu.vn/), advised by Prof.[Triet Minh Tran](https://www.fit.hcmus.edu.vn/~tmtriet/) and Dr. Son Thai Tran.
+I obtained my master's degree from CMU, advised by [Marios Savvides](https://www.ece.cmu.edu/directory/bios/savvides-marios.html). Prior to that, I got my bachelor's degree in Computer Science at [University of Science, Ho Chi Minh City, Vietnam](https://en.hcmus.edu.vn/), advised by [Triet Minh Tran](https://www.fit.hcmus.edu.vn/~tmtriet/) and Son Thai Tran.
 
 I worked as a Software Engineer and ML/AI Research Engineer at Misfit/[Fossil group](https://www.fossil.com/en-us/), a wearable devices company for 3 years.
 
