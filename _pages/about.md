@@ -18,12 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student at <a target="_blank" href="https://www.cmu.edu/">CMU</a>, Pittsburgh, PA.
+I am a Ph.D. student at <a target="_blank" href="https://www.cmu.edu/">CMU</a>, advised by advised by <a target="_blank" href="https://www.ece.cmu.edu/directory/bios/savvides-marios.html">Marios Savvides</a>.
 
 **Research Interests**\
 My research interests are Machine Learning and Deep Learning for Computer Vision. I am interested in desiging compact neural architectures using recent automated Machine Learning (auto ML) approaches: Evolutionary algorithm, Reinforcement Learning. 
 
-I obtained my master's degree from CMU, advised by <a target="_blank" href="https://www.ece.cmu.edu/directory/bios/savvides-marios.html">Marios Savvides</a>. Prior to that, I got my bachelor's degree in Computer Science at <a target="_blank" href="https://en.hcmus.edu.vn/">University of Science, Ho Chi Minh City, Vietnam</a>, advised by <a target="_blank" href="https://www.fit.hcmus.edu.vn/~tmtriet/">Triet Minh Tran</a> and Son Thai Tran.
+I obtained my master's degree from CMU, advised by Marios Savvides. Prior to that, I got my bachelor's degree in Computer Science at <a target="_blank" href="https://en.hcmus.edu.vn/">University of Science, Ho Chi Minh City, Vietnam</a>, advised by <a target="_blank" href="https://www.fit.hcmus.edu.vn/~tmtriet/">Triet Minh Tran</a> and Son Thai Tran.
 
 I worked as a Software Engineer and ML/AI Research Engineer at Misfit/<a target="_blank" href="https://www.fossil.com/en-us/">Fossil group</a>, a wearable devices company for 3 years.
 
