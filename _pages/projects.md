@@ -201,7 +201,7 @@ nav: true
                            href="https://github.com/mit-han-lab/amc-compressed-models">[code]</a>  -->
                     </p>
                     <p class="abstract-text">
-                        Researched and developed sketch recognition algorithm for augumented reality to help people interact with drawing. My report: <a target="_blank"
+                        Researched and developed sketch recognition algorithm for augumented reality to help people interact with drawing. <a target="_blank"
                            href="../assets/pdf/Hai-Huy-Thesis.pdf">[PDF]</a><a target="_blank"
                            href="https://www.youtube.com/watch?v=KkhaqfNwNWQ&feature=youtu.be">[Demo]</a><br/>
                         <u>Languages/Technical usage</u>: C++, Support Vector Machine Liblinear, <a target="_blank"
