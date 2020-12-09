@@ -1,6 +1,6 @@
 ---
 layout: page
-# permalink: /resume/
+permalink: /bio/
 title: Bio
 description: For introduction
 nav: true
