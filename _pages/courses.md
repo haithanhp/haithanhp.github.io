@@ -1,6 +1,6 @@
 ---
 layout: page
-# permalink: /resume/
+permalink: /courses/
 title: Courses
 description: Courses/classes, materials
 nav: true
