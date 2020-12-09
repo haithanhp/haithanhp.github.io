@@ -116,7 +116,7 @@ nav: true
         <h5 class="card-title"><a href="https://www.cs.cmu.edu/~lwehbe/10701_S19/" target="_blank">Introduction to Machine Learning (PhD)</a></h5>
         <h6 class="card-subtitle font-italic">Spring 2019</h6>
         <br />
-        <h6 class="card-subtitle font-italic">Lecturers: Prof. <a href="https://www.cs.cmu.edu/~lwehbe/" target="_blank">Leila Wehbe</a> & Prof.<a href="https://www.stat.cmu.edu/~aramdas/" target="_blank">Aaditya Ramdas</a> </h6>
+        <h6 class="card-subtitle font-italic">Lecturers: Prof. <a href="https://www.cs.cmu.edu/~lwehbe/" target="_blank">Leila Wehbe</a> & Prof. <a href="https://www.stat.cmu.edu/~aramdas/" target="_blank">Aaditya Ramdas</a> </h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
