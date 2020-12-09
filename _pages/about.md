@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student at <a target="_blank" href="https://www.cmu.edu/">CMU</a>, advised by advised by <a target="_blank" href="https://www.ece.cmu.edu/directory/bios/savvides-marios.html">Marios Savvides</a>.
+I am a Ph.D. student at <a target="_blank" href="https://www.cmu.edu/">CMU</a>, advised by <a target="_blank" href="https://www.ece.cmu.edu/directory/bios/savvides-marios.html">Marios Savvides</a>.
 
 **Research Interests**\
 My research interests are Machine Learning and Deep Learning for Computer Vision. I am interested in desiging compact neural architectures using recent automated Machine Learning (auto ML) approaches: Evolutionary algorithm, Reinforcement Learning. 
