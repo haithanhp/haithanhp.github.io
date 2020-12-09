@@ -139,7 +139,7 @@ nav: true
         <h5 class="card-title"><a href="https://courses.ece.cmu.edu/18794" target="_blank">Pattern Recognition Theory</a></h5>
         <h6 class="card-subtitle font-italic">Fall 2020</h6>
         <br />
-        <h6 class="card-subtitle font-italic">Lecturers: <a href="https://www.ece.cmu.edu/directory/bios/savvides-marios.html" target="_blank">Marios Savvides</a> </h6>
+        <h6 class="card-subtitle font-italic">Lecturer: <a href="https://www.ece.cmu.edu/directory/bios/savvides-marios.html" target="_blank">Marios Savvides</a> </h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
