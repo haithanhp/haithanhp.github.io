@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: <p class="post-description"><a href="https://https://www.ece.cmu.edu/" target="_blank" >Electrical and Computer Engineering Department</a> • <a href="https://www.cylab.cmu.edu/" target="_blank">Cylab</a> • <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University</a></p>
+description: <p class="post-description"><a href="https://www.ece.cmu.edu/" target="_blank" >Electrical and Computer Engineering Department</a> • <a href="https://www.cylab.cmu.edu/" target="_blank">Cylab</a> • <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University</a></p>
 profile:
   align: right
   image: haiphan.jpg
