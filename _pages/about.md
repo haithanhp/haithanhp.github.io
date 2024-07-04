@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. student at [CMU](https://www.cmu.edu/), Pittsburgh, PA.
 
-**Research Interests**\
+**Research Interests Test**\
 My research interests are Machine Learning and Deep Learning for Computer Vision. I am interested in desiging compact neural architectures using recent automated Machine Learning (auto ML) approaches: Evolutionary algorithm, Reinforcement Learning. 
 
 I obtained my master's degree from CMU, advised by Prof.[Marios Savvides](https://www.ece.cmu.edu/directory/bios/savvides-marios.html). Prior to that, I got my bachelor's degree in Computer Science at [University of Science, Ho Chi Minh City, Vietnam](https://en.hcmus.edu.vn/), advised by Prof.[Triet Minh Tran](https://www.fit.hcmus.edu.vn/~tmtriet/) and Dr. Son Thai Tran.
