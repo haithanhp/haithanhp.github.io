@@ -71,6 +71,8 @@ GEM
       jekyll (>= 3.0, < 5.0)
     kramdown (2.3.0)
       rexml
+    kramdown-parser-gfm (1.1.0)
+      kramdown (~> 2.0)
     latex-decode (0.3.2)
     liquid (4.0.3)
     listen (3.3.3)
@@ -120,6 +122,7 @@ DEPENDENCIES
   jekyll-scholar
   jekyll-twitter-plugin
   jemoji
+  kramdown-parser-gfm
   unicode_utils
   webrick
 
